@@ -4,33 +4,6 @@
 
 “오늘 뭐 먹지?” 고민될 때 Yummy로 해결하세요 :)
 
-## 💻 실행 방법
-
-<aside>
-🌟 필수!!!
-
-**실행 방법(컴파일 방법, 환경 포함)**
-
-참고 [https://bluayer.com/26](https://bluayer.com/26)
-
-</aside>
-
-<aside>
-🌟 이 지침을 통해 개발 및 테스트 목적으로 로컬 시스템에서 프로젝트 사본을 실행하고 실행할 수 있습니다.
-
-→ 음………… 로컬에 어떻게 받아오더라… clone 하는 거랑…. vs code에서 `python application.py` 해서 실행하는 거랑… 적어야지…
-
-</aside>
-
-### (추후 수정) **Prerequisites**
-
-<aside>
-🌟 **의존성이 걸리는 모든 부분**
-
-→ 뭘 깔아야 하는지, 어떻게 깔 수 있는지
-
-</aside>
-
 ## 😋 기능 소개
 
 ### 핵심 기능
@@ -56,28 +29,6 @@
 
 ⬇️ 페이지 간 관계도 : 상위 페이지를 통해서 하위 페이지로 이동할 수 있습니다.
 ![Untitled](https://user-images.githubusercontent.com/87740183/209659774-bbc62d05-b054-4333-b4bd-ff0e45f152fc.png)
-
-
-## (선택) 라이센스(**License)**
-
-<aside>
-🌟 쓸까 말까
-
-</aside>
-
-## (선택) **기여 방법(Contributing)**
-
-1. ([https://github.com/yourname/yourproject/fork](https://github.com/yourname/yourproject/fork))을 포크합니다.
-2. (`git checkout -b feature/fooBar`) 명령어로 새 브랜치를 만드세요.
-3. (`git commit -am 'Add some fooBar'`) 명령어로 커밋하세요.
-4. (`git push origin feature/fooBar`) 명령어로 브랜치에 푸시하세요.
-5. 풀리퀘스트를 보내주세요.
-
-<aside>
-🌟 복붙해온 거라서 url 같은 거 수정 필요. 
-그리고 이대로 하면 정말 되는지 체크도 안 해봤음.
-
-</aside>
 
 ## **😎** 팀 소개
 
